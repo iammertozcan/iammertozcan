@@ -1,4 +1,4 @@
-![giphy](https://github.com/mxrtxzcxn/mxrtxzcxn/assets/130929421/4a0e4b83-f0c9-4d36-92ad-30a103b8b128) Hello, World!
+![giphy](https://github.com/mxrtxzcxn/mxrtxzcxn/assets/130929421/4a0e4b83-f0c9-4d36-92ad-30a103b8b128)
 - 👋 Hi, I’m @mxrtxzcxn
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
