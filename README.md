@@ -1,5 +1,5 @@
 ![giphy](https://github.com/mxrtxzcxn/mxrtxzcxn/assets/130929421/4a0e4b83-f0c9-4d36-92ad-30a103b8b128)
-
+# Skills
 [![My Skills](https://skillicons.dev/icons?i=c,vim,git)](https://skillicons.dev)
 - 👋 Hi, I’m @mxrtxzcxn
 - 🚀 Code Enthusiast!
