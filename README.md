@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Mert ÖZCAN
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently improving C and Shell skills.
+- 🌱 I’m currently improving my C and Shell skills.
 - 🕊️ And learning Swift.
 - 📫 How to reach me mxrtxzcxn@outlook.com
 # Skills
