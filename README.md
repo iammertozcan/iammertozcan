@@ -1,5 +1,4 @@
-![giphy](https://github.com/mxrtxzcxn/mxrtxzcxn/assets/130929421/4a0e4b83-f0c9-4d36-92ad-30a103b8b128)
-
+<img align="right"  height="150" src="(https://giphy.com/gifs/adultswim-l4FGDAx6u3hthMhgI)"  />
 # 👋 Hi, I’m Mert ÖZCAN
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
