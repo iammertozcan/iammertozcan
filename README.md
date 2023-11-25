@@ -1,4 +1,5 @@
 <img align="right"  height="150" src="(https://giphy.com/gifs/adultswim-l4FGDAx6u3hthMhgI)"  />
+
 # 👋 Hi, I’m Mert ÖZCAN
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
