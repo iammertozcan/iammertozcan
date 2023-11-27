@@ -1,5 +1,5 @@
 ![giphy](https://github.com/mxrtxzcxn/mxrtxzcxn/assets/130929421/2ee7c8cc-a92a-44fd-86eb-f02495f2ec50)
-# 👋 Hi, I’m Mert ÖZCAN
+![Header](./https://github.com/mxrtxzcxn/mxrtxzcxn/assets/130929421/dd30cc1c-0a8b-49de-b6c8-03908f782df8)
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
 - 🤖 I’m currently improving my C and Shell skills.
