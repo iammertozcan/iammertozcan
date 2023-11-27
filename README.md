@@ -2,7 +2,7 @@
 <img align="right" alt="Learning" width="250" src="https://media1.giphy.com/media/l4FGDAx6u3hthMhgI/giphy.gif?cid=ecf05e47yzid5d9fgz0yi5vng9rudyp8skr8tsomck14decd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
-- 🤖 I’m currently improving my C and Shell skills.
+- 👽 I’m currently improving my C and Shell skills.
 - 🌱 I’m currently learning Swift.
 - 📫 How to reach me mxrtxzcxn@outlook.com
 # Skills
