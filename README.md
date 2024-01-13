@@ -4,7 +4,7 @@
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
 - 👽 I’m currently improving my C and Shell skills.
-- 🌱 I’m currently learning HTML, CSS and Swift.
+- 🌱 I’m currently learning C++, Objective - C and Swift.
 - 📫 How to reach me mxrtxzcxn@outlook.com
 
 **Skills**
