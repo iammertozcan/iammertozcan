@@ -4,12 +4,12 @@
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
 - 👽 I’m currently improving my C and Shell skills.
-- 🌱 I’m currently learning C++, Objective - C and Swift.
+- 🌱 I’m currently learning Objective-C and Swift.
 - 📫 How to reach me mxrtxzcxn@outlook.com
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,vim,git,swift,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,swift,figma)](https://skillicons.dev)
 <!---
 mxrtxzcxn/mxrtxzcxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
