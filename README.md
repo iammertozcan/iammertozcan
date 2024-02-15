@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning Objective-C and Swift.
 - 📫 How to reach me mxrtxzcxn@outlook.com
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 **Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,swift,figma)](https://skillicons.dev)
