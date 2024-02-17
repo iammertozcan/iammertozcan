@@ -6,7 +6,7 @@
 - 👀 I’m interested in Software Development.
 - 👽 I’m currently improving my C and Shell skills.
 - 🌱 I’m currently learning Objective-C and Swift.
-- 📫 How to reach me mxrtxzcxn@outlook.com
+- 📫 How to reach me iammertozcan@gmail.com
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
