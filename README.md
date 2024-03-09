@@ -5,14 +5,14 @@
 - 🚀 Code Enthusiast!
 - 👀 I’m interested in Software Development.
 - 👽 I’m currently improving my C and Shell skills.
-- 🌱 I’m currently learning Objective-C and Swift.
+- 🌱 I’m currently learning Swift and JavaScript.
 - 📫 How to reach me iammertozcan@gmail.com
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github,swift,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github,swift,swiftui,js,figma)](https://skillicons.dev)
 <!---
 mxrtxzcxn/mxrtxzcxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
