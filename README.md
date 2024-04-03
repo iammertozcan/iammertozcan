@@ -12,35 +12,7 @@
 
 **Skills**
 
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=c" />
-</a>
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=vim" />
-</a>
-
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=swift" />
-</a>
-
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=js" />
-</a>
-
-<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
-    <img src="https://skillicons.dev/icons?i=figma" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github,swift,js,figma)](https://skillicons.dev)
 
 <!---
 mxrtxzcxn/mxrtxzcxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
