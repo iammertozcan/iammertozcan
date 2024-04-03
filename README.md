@@ -12,6 +12,9 @@
 
 **Skills**
 
+<a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
+    <img src="https://skillicons.dev/icons?i=c" />
+</a>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github,swift,js,figma)](https://skillicons.dev)
 <!---
 mxrtxzcxn/mxrtxzcxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
