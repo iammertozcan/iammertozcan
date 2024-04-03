@@ -16,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=c" />
 </a>
 
-
 <img src="https://skillicons.dev/icons?i=cpp" />
 
 <a href="https://coursera.org/share/97d4700a0909766274e8f5abd705eb4b">
