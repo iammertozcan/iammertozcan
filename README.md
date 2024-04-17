@@ -12,7 +12,7 @@
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github,swift,js,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github,swift,html,css,js,figma)](https://skillicons.dev)
 
 <!---
 mxrtxzcxn/mxrtxzcxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
